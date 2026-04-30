@@ -142,6 +142,8 @@ GEM
     mutex_m (0.3.0)
     mysql2 (0.5.5)
     net-imap (0.6.4)
+    net-imap (0.6.3)
+
       date
       net-protocol
     net-pop (0.1.2)
@@ -240,6 +242,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2026.2)
+    tzinfo-data (1.2026.1)
       tzinfo (>= 1.0.0)
     web-console (4.2.0)
       actionview (>= 6.0.0)
