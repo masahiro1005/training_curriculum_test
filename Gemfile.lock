@@ -244,14 +244,10 @@ GEM
       railties (>= 6.0.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-<<<<<<< second_training
     tzinfo-data (1.2026.1)
       tzinfo (>= 1.0.0)
     tzinfo-data (1.2026.2)
-=======
-    tzinfo-data (1.2026.2)
-      tzinfo (>= 1.0.0)
->>>>>>> main
+
     web-console (4.2.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
