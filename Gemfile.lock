@@ -141,11 +141,11 @@ GEM
     msgpack (1.7.1)
     mutex_m (0.3.0)
     mysql2 (0.5.5)
-<<<<<<< second_training
+
     net-imap (0.6.3)
-=======
-    net-imap (0.6.4)
->>>>>>> main
+
+
+
       date
       net-protocol
     net-imap (0.6.4)
